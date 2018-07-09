@@ -4,4 +4,4 @@
 
 Установка и запуск
 --------
-* php verificationSEOFromCSVFile.php --fileCSV=file.csv
+* php verificationSEOFromCSVFile.php --fileCSV=file.csv 
